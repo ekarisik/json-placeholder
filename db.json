@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "body" : "Body one" },
-    { "id": 2, "title": "Post 2", "body" : "Body two" },
-    { "id": 3, "title": "Post 3", "body" : "Body three" }
+    { "id": 1, "word": "Post 1", "description" : "Body one" },
+    { "id": 2, "word": "Post 2", "description" : "Body two" },
+    { "id": 3, "word": "Post 3", "description" : "Body three" }
   ]
 }
