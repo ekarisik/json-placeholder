@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "words": [
     { "id": 1, "word": "Post 1", "description" : "Body one" },
     { "id": 2, "word": "Post 2", "description" : "Body two" },
     { "id": 3, "word": "Post 3", "description" : "Body three" }
